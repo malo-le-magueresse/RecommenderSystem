@@ -1,2 +1,2 @@
 # RecommenderSystem
-Building a recommender system for the MovieLens 100k dataset
+Building recommender systems for the MovieLens 100k and Cross-Booking datasets.
